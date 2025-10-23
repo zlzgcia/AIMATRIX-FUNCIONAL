@@ -1,0 +1,5 @@
+{
+  "name": "AI Model Matrix FUNCIONAL",
+  "description": "An application to browse AI models from Civitai and generate images using their concepts with the Gemini API, inspired by Stability Matrix.",
+  "requestFramePermissions": []
+}
